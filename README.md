@@ -2,6 +2,10 @@
 
 **[Sihat Afnan](https://sihatafnan.github.io), [Unnat Jain](https://unnat.github.io/)\*, [Habiba Farrukh](https://habiba-farrukh.github.io/)\*** — University of California, Irvine
 
+🎉 **Accepted at NeurIPS 2026** — Advances in Neural Information Processing Systems.
+
+🌐 Project page: https://unveil-humanoid-operators.github.io
+
 ---
 
 # UNVEIL
@@ -187,3 +191,16 @@ The split is **actor-level**: every actor's motion sequences land entirely in on
 We thank the authors of DS-GCN, ProtoGCN, and pyskl, whose code we adapted
 for the comparison backbones and the action-recognition utility evaluation
 bundled under `src/`.
+
+---
+
+## Citation
+
+```bibtex
+@inproceedings{afnan2026whomoved,
+    title={Who Moved the Robot? Humanoid Datasets Remember Their Operators},
+    author={Afnan, Sihat and Jain, Unnat and Farrukh, Habiba},
+    booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+    year={2026}
+}
+```
