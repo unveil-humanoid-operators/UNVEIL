@@ -188,9 +188,9 @@ The split is **actor-level**: every actor's motion sequences land entirely in on
 
 ## Acknowledgments
 
-We thank the authors of DS-GCN, ProtoGCN, and pyskl, whose code we adapted
-for the comparison backbones and the action-recognition utility evaluation
-bundled under `src/`.
+We thank BONES Studio for creating and publicly releasing the [BONES-SEED](https://bones.studio/datasets/seed), whose scale and per-operator metadata made this study possible.
+%
+We thank the Department of Computer Science in the Donald Bren School of Information and Computer Sciences at the University of California, Irvine, for supporting this work.
 
 ---
 
