@@ -188,9 +188,7 @@ The split is **actor-level**: every actor's motion sequences land entirely in on
 
 ## Acknowledgments
 
-We thank BONES Studio for creating and publicly releasing the [BONES-SEED](https://bones.studio/datasets/seed), whose scale and per-operator metadata made this study possible.
-%
-We thank the Department of Computer Science in the Donald Bren School of Information and Computer Sciences at the University of California, Irvine, for supporting this work.
+We thank BONES Studio for creating and publicly releasing the [BONES-SEED](https://bones.studio/datasets/seed), whose scale and per-operator metadata made this study possible. We thank the Department of Computer Science in the Donald Bren School of Information and Computer Sciences at the University of California, Irvine, for supporting this work.
 
 ---
 
